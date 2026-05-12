@@ -1,0 +1,43 @@
+{
+  "updated": "2026-05-12",
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Working Student GIS & Environmental Data",
+      "company": "Climate Analytics Berlin",
+      "type": "Working Student",
+      "sector": "GIS & Remote Sensing",
+      "location": "Berlin",
+      "mode": "Hybrid",
+      "language": "English + German A1/A2",
+      "deadline": "2026-05-30",
+      "source": "Example / Company Career Page",
+      "salary": "€14–18/hour",
+      "sponsorship": "International students accepted",
+      "skills": ["ArcGIS", "QGIS", "Remote Sensing", "Excel"],
+      "description": "Support environmental data mapping, climate risk analysis, and GIS-based sustainability reports.",
+      "match": "Strong match because of your MSc background and GIS skills.",
+      "status": "Pending",
+      "applyLink": "https://www.linkedin.com/jobs/"
+    },
+    {
+      "id": 2,
+      "title": "Sustainability Internship – Renewable Energy",
+      "company": "Berlin GreenTech Startup",
+      "type": "Internship",
+      "sector": "Renewable Energy",
+      "location": "Berlin",
+      "mode": "On-site",
+      "language": "English Only",
+      "deadline": "2026-06-10",
+      "source": "Example / Welcome to the Jungle",
+      "salary": "Paid internship",
+      "sponsorship": "Possible for internship",
+      "skills": ["Sustainability", "Research", "Reporting"],
+      "description": "Assist with renewable energy market research, ESG reporting, and startup sustainability operations.",
+      "match": "Good match for environmental management and communication experience.",
+      "status": "Applied",
+      "applyLink": "https://www.welcometothejungle.com/"
+    }
+  ]
+}
